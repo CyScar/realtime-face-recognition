@@ -2,7 +2,7 @@
 
 This repository provides a complete guide and code implementation for real-time face recognition using Google Colab and webcam, including custom data generation, model training, live video stream setup, real-time testing, and saving predicted frames as images.
 
-##Introduction
+#Introduction
 Face recognition is a popular application of computer vision and deep learning. This project aims to provide an easy-to-follow implementation of real-time face recognition using a custom dataset generated from a webcam. The code is designed to run smoothly on Google Colab, allowing users to leverage its free GPU resources.
 
 ##Getting Started
