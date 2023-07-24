@@ -13,6 +13,10 @@ Open the notebook Face_detection_and_recognition.ipynb to get started.
 Follow the instructions in the notebook to create a custom face dataset.
 Use the webcam to capture face images for different individuals, and store them in separate folders within the dataset directory.
 
+<img width="965" alt="Screenshot 2023-07-24 at 5 35 35 PM" src="https://github.com/CyScar/realtime-face-recognition/assets/58580745/c15e0085-ac98-4c0b-a03b-a3edc0dcf3f4">
+
+<img width="217" alt="Screenshot 2023-07-24 at 5 37 07 PM" src="https://github.com/CyScar/realtime-face-recognition/assets/58580745/64a1e725-9f77-4e73-bd52-844dc3d9cf58">
+
 ## Model Training 
 Train the face recognition model on the custom dataset as instructed in the notebook.
 
